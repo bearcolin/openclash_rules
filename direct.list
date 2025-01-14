@@ -1,0 +1,9 @@
+# 内容：需要直连的网址
+#
+# 域名关键字匹配
+# DOMAIN-KEYWORD,xxxx
+#
+# 域名后缀匹配
+# DOMAIN-SUFFIX,xxxx.xxx
+
+DOMAIN-SUFFIX,appstorrent.ru
