@@ -12,3 +12,16 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,wttr.in
 DOMAIN-SUFFIX,archive.org
 # DOMAIN-SUFFIX,haiwaikan.tv
+
+# ===== 音频插件公司直连 =====
+# Arturia 官网 + CDN
+DOMAIN-SUFFIX,arturia.com
+DOMAIN-SUFFIX,arturia.net
+
+# Splice 官网 + 下载器资源
+DOMAIN-SUFFIX,splice.com
+DOMAIN-SUFFIX,splice-assets.com
+
+# iZotope 官网 + Product Portal
+DOMAIN-SUFFIX,izotope.com
+DOMAIN-SUFFIX,productportal.com
