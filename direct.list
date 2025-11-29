@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,wttr.in
 DOMAIN-SUFFIX,archive.org
 # DOMAIN-SUFFIX,haiwaikan.tv
+DOMAIN-SUFFIX,torrentmac.net
 
 # ===== 音频插件公司直连 =====
 # Arturia 官网 + CDN
