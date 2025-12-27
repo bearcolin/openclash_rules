@@ -35,3 +35,10 @@ DOMAIN-SUFFIX,ni-dl.com
 DOMAIN-SUFFIX,ni-media.com
 DOMAIN-SUFFIX,niassets.s3.amazonaws.com
 DOMAIN-SUFFIX,artifacts-cdn.native-instruments.com
+
+# ===== Speedtest / Ookla 测速直连 =====
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,ooklaserver.net
+DOMAIN-SUFFIX,ookla.net
+DOMAIN-SUFFIX,cdn.ookla.com
