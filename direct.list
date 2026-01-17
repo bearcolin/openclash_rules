@@ -14,6 +14,16 @@ DOMAIN-SUFFIX,archive.org
 # DOMAIN-SUFFIX,haiwaikan.tv
 DOMAIN-SUFFIX,torrentmac.net
 
+# AWS / 下载资源（基础设施直连）
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudfront.net
+
+# ===== 低暴露风险 · 下载 / 资源 CDN =====
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,raw.githubusercontent.com
+DOMAIN-SUFFIX,akamaized.net
+
 # ===== 音频插件公司直连 =====
 # Arturia 官网 + CDN
 DOMAIN-SUFFIX,arturia.com
