@@ -1,0 +1,11 @@
+# Bungie Store - force full proxy (Loon)
+
+# Main domains
+DOMAIN-SUFFIX,bungiestore.com
+DOMAIN-SUFFIX,bungie.net
+DOMAIN-SUFFIX,commerce.bungie.net
+
+# Required CDN
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,akamaihd.net
