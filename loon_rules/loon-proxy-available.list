@@ -1,0 +1,12 @@
+# Any available proxy is OK
+
+# Design / Tools
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,designer.microsoft.com
+
+# File transfer
+DOMAIN-KEYWORD,wetransfer
+
+# Others
+DOMAIN-SUFFIX,tdacestudio.com
+DOMAIN-SUFFIX,imbt.one

@@ -1,0 +1,21 @@
+# Direct access sites (no proxy)
+
+# Download / archive / tools
+DOMAIN-SUFFIX,appstorrent.ru
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN-SUFFIX,wttr.in
+
+# PlayStation / Sony
+DOMAIN-SUFFIX,psn.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+DOMAIN-SUFFIX,sony.com
+
+# Native Instruments CDN
+DOMAIN,artifacts-cdn.native-instruments.com
+
+# Others
+DOMAIN-SUFFIX,effirst.com
+DOMAIN-SUFFIX,lookfantastic.com
+DOMAIN-SUFFIX,vk.com

@@ -1,0 +1,9 @@
+# Must use US nodes
+
+# Education
+DOMAIN-SUFFIX,liberty.edu
+DOMAIN-SUFFIX,vccs.edu
+
+# API / Services
+DOMAIN,api.statsig.com
+DOMAIN-KEYWORD,copilot
