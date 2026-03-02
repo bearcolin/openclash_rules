@@ -9,3 +9,10 @@
 DOMAIN-SUFFIX,suno.com
 DOMAIN-KEYWORD,suno
 DOMAIN-SUFFIX,tdacestudio.com
+
+DOMAIN-KEYWORD,splice
+DOMAIN-KEYWORD,spliceproduction
+DOMAIN-SUFFIX,splice.com
+DOMAIN-SUFFIX,splice-cdn.com
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
