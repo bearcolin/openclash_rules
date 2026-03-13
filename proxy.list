@@ -15,6 +15,6 @@ DOMAIN-SUFFIX,tdacestudio.com
 # DOMAIN-SUFFIX,splice.com
 # DOMAIN-SUFFIX,splice-cdn.com
 # DOMAIN-SUFFIX,cloudinary.com
-# DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
+DOMAIN-SUFFIX,s3.us-west-1.amazonaws.com
 
 DOMAIN-SUFFIX,archive.org
