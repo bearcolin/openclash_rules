@@ -29,8 +29,7 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,arturia.com
 DOMAIN-SUFFIX,arturia.net
 
-# Splice 官网 + 下载器资源
-DOMAIN-SUFFIX,splice.com
+# Splice 静态资源直连
 DOMAIN-SUFFIX,splice-assets.com
 
 # iZotope 官网 + Product Portal
