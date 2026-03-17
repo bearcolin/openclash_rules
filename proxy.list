@@ -10,7 +10,9 @@ DOMAIN-SUFFIX,suno.com
 DOMAIN-KEYWORD,suno
 DOMAIN-SUFFIX,tdacestudio.com
 
-DOMAIN,spliceproduction.s3.us-west-1.amazonaws.com
+# AWS us-west 区域统一走代理，覆盖区域下载与对象存储域名
+DOMAIN-SUFFIX,us-west-1.amazonaws.com
+DOMAIN-SUFFIX,us-west-2.amazonaws.com
 # DOMAIN-SUFFIX,cloudinary.com
 
 DOMAIN-SUFFIX,archive.org

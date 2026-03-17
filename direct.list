@@ -14,8 +14,10 @@ DOMAIN-SUFFIX,archive.org
 # DOMAIN-SUFFIX,haiwaikan.tv
 DOMAIN-SUFFIX,torrentmac.net
 
-# AWS / 下载资源（基础设施直连）
-DOMAIN-SUFFIX,amazonaws.com
+# AWS / 下载资源（仅保留明确需要直连的资源）
+#
+# 不再直连整个 amazonaws.com，避免像 Splice 这类走 AWS 的下载域名
+# 被前面的宽泛规则截走，导致本应代理的请求实际走直连。
 DOMAIN-SUFFIX,cloudfront.net
 
 # ===== 低暴露风险 · 下载 / 资源 CDN =====
