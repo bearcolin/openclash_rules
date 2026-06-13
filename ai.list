@@ -1,0 +1,12 @@
+# Claude / Anthropic
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,anthropic.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,assets-proxy.anthropic.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,statsig.com
+DOMAIN-SUFFIX,segment.io
+DOMAIN-SUFFIX,segment.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,sentry.io
