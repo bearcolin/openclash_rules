@@ -21,7 +21,4 @@ DOMAIN-SUFFIX,lookfantastic.com
 DOMAIN-SUFFIX,vk.com
 
 #Adidas
-DOMAIN-SUFFIX,adidas.com.sg,DIRECT
 DOMAIN-SUFFIX,adidas.com,DIRECT
-DOMAIN-SUFFIX,glass.adidas.com,DIRECT
-DOMAIN,esm.glass.adidas.com,DIRECT
