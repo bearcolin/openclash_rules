@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,wttr.in
 DOMAIN-SUFFIX,archive.org
 # DOMAIN-SUFFIX,haiwaikan.tv
 DOMAIN-SUFFIX,torrentmac.net
+DOMAIN-SUFFIX,invite.linuxdo.org
 
 # AWS / 下载资源（仅保留明确需要直连的资源）
 #
