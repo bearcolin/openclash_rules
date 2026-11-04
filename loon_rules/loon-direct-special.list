@@ -22,3 +22,6 @@ DOMAIN-SUFFIX,vk.com
 
 #Adidas
 DOMAIN-SUFFIX,adidas.com,DIRECT
+
+#LINUX DO
+DOMAIN-SUFFIX,invite.linuxdo.org
